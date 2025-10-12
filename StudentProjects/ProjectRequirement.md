@@ -66,7 +66,7 @@ You will be graded on:
 
 ---
 
-✅ **Deadline:** \[10/31/2025]
+✅ **Deadline:** \[11/2/2025]
 ✅ **Submission method:** \[Google Classroom]
 
 ## 6. **Public Data Sources**
