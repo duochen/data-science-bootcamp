@@ -71,8 +71,6 @@ You will be graded on:
 
 ## 6. **Public Data Sources**
 
-Here’s a curated, student-friendly list of reliable public data sources (grouped by topic). All links go directly to the main dataset portals.
-
 ### General catalogs
 
 * Kaggle Datasets — [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
