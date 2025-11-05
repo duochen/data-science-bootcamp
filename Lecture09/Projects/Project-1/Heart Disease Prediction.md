@@ -47,6 +47,9 @@ The target variable originally ranges from 0 to 4, representing varying degrees 
 
 Descriptive statistics and visualizations are performed to examine feature distributions and relationships. Variables such as **age**, **chol**, **thalach**, and **trestbps** are analyzed through histograms and boxplots to identify potential predictors of heart disease.
 
+![Heart Disease Histograms](./heart_disease_histograms.png)
+![Heart Disease Boxplots](./heart_disease_boxplots.png)
+
 ### 2.4. Model Training and Evaluation
 
 The cleaned dataset is split into training (80%) and testing (20%) sets. Features are standardized using **StandardScaler** to ensure consistent scaling across variables.
