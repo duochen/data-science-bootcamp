@@ -1,0 +1,49 @@
+student_id,name,grade,club,subject,assessment,score
+S01,Ava,9,Robotics,Math,Pre,78
+S01,Ava,9,Robotics,Math,Post,88
+S01,Ava,9,Robotics,Science,Pre,82
+S01,Ava,9,Robotics,Science,Post,90
+S02,Ben,10,AI Club,Math,Pre,85
+S02,Ben,10,AI Club,Math,Post,91
+S02,Ben,10,AI Club,Science,Pre,80
+S02,Ben,10,AI Club,Science,Post,89
+S03,Chloe,9,Science,Math,Pre,92
+S03,Chloe,9,Science,Math,Post,95
+S03,Chloe,9,Science,Science,Pre,94
+S03,Chloe,9,Science,Science,Post,96
+S04,Diego,11,Robotics,Math,Pre,68
+S04,Diego,11,Robotics,Math,Post,79
+S04,Diego,11,Robotics,Science,Pre,72
+S04,Diego,11,Robotics,Science,Post,81
+S05,Emma,10,Art,Math,Pre,88
+S05,Emma,10,Art,Math,Post,92
+S05,Emma,10,Art,Science,Pre,86
+S05,Emma,10,Art,Science,Post,92
+S06,Finn,9,AI Club,Math,Pre,74
+S06,Finn,9,AI Club,Math,Post,83
+S06,Finn,9,AI Club,Science,Pre,70
+S06,Finn,9,AI Club,Science,Post,79
+S07,Grace,11,Science,Math,Pre,90
+S07,Grace,11,Science,Math,Post,94
+S07,Grace,11,Science,Science,Pre,91
+S07,Grace,11,Science,Science,Post,95
+S08,Hassan,10,Robotics,Math,Pre,65
+S08,Hassan,10,Robotics,Math,Post,76
+S08,Hassan,10,Robotics,Science,Pre,69
+S08,Hassan,10,Robotics,Science,Post,78
+S09,Ivy,9,Art,Math,Pre,81
+S09,Ivy,9,Art,Math,Post,87
+S09,Ivy,9,Art,Science,Pre,84
+S09,Ivy,9,Art,Science,Post,90
+S10,Jayden,11,AI Club,Math,Pre,77
+S10,Jayden,11,AI Club,Math,Post,85
+S10,Jayden,11,AI Club,Science,Pre,75
+S10,Jayden,11,AI Club,Science,Post,84
+S11,Kai,10,Science,Math,Pre,83
+S11,Kai,10,Science,Math,Post,90
+S11,Kai,10,Science,Science,Pre,88
+S11,Kai,10,Science,Science,Post,93
+S12,Lina,11,Art,Math,Pre,72
+S12,Lina,11,Art,Math,Post,82
+S12,Lina,11,Art,Science,Pre,74
+S12,Lina,11,Art,Science,Post,83
