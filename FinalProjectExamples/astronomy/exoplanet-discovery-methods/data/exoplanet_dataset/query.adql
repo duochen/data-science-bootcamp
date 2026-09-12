@@ -1,0 +1,17 @@
+select pl_name,
+       hostname,
+       discoverymethod,
+       disc_year,
+       disc_facility,
+       pl_orbper,
+       pl_orbperlim,
+       pl_rade,
+       pl_radelim,
+       pl_bmasse,
+       pl_bmasselim,
+       pl_eqt,
+       pl_eqtlim,
+       st_teff,
+       st_rad,
+       sy_dist
+from pscomppars
